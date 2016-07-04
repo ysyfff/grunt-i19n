@@ -36,6 +36,6 @@
     "gruntplugin"
   ],
   "dependencies": {
-    "i19n": "^2.0.0"
+    "i19n-for-grunt": "^1.0.0"
   }
 }
