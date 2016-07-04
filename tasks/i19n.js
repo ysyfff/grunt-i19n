@@ -21,7 +21,7 @@ module.exports = function(grunt) {
 
     var lang = grunt.file.expand(src);
 
-    require('i19n')(lang, dest, grunt);
+    require('i19n-for-grunt')(lang, dest, grunt);
   });
 
 };
